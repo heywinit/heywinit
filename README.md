@@ -8,3 +8,6 @@
     <a href="https://instagram.com/heywinit">instagram</a>
   </samp>
 </p>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
