@@ -7,10 +7,10 @@ heywinit@github:~$ echo $SKILLS
 🛠️ Full Stack Development  | 🚀 Avionics & Rocketry
 ```
 ```bash
-heywinit@github:~$ ls -la
-drwxr-xr-x  winit          🔹 [projects/](https://heywinit.vercel.dev/projects)
-drwxr-xr-x  winit          🔹 [about/](https://heywinit.vercel.dev/about)
-drwxr-xr-x  winit          🔹 [contact/](https://heywinit.vercel.dev/contact)
+heywinit@github:~$ ls -la #the info is on my site
+drwxr-xr-x  winit          🔹 projects
+drwxr-xr-x  winit          🔹 about
+drwxr-xr-x  winit          🔹 contac
 ```
 ```bash
 heywinit@github:~$ ./portfolio
