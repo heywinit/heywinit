@@ -14,5 +14,5 @@ drwxr-xr-x  winit          🔹 contac
 ```
 ```bash
 heywinit@github:~$ ./portfolio
-🌐 Visit my [portfolio](https://heywinit.vercel.dev) for more!
+🌐 Visit my portfolio @ https://heywinit.vercel.dev for more!
 ```
