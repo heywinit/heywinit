@@ -10,9 +10,15 @@ heywinit@github:~$ echo $SKILLS
 heywinit@github:~$ ls -la #the info is on my site
 drwxr-xr-x  winit          🔹 projects
 drwxr-xr-x  winit          🔹 about
-drwxr-xr-x  winit          🔹 contac
+drwxr-xr-x  winit          🔹 contact
 ```
 ```bash
 heywinit@github:~$ ./portfolio
 🌐 Visit my portfolio @ https://heywinit.vercel.dev for more!
+```
+```
+https://heywinit.vercel.app
+```
+```
+heywinit@gmail.com
 ```
