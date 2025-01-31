@@ -17,7 +17,7 @@ heywinit@github:~$ ./portfolio
 🌐 Visit my portfolio @ https://heywinit.vercel.dev for more!
 ```
 ```
-https://heywinit.vercel.app
+https://heywinit.me
 ```
 ```
 heywinit@gmail.com
