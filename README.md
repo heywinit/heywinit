@@ -10,7 +10,7 @@ i love
 - bikes
 
 ## my projects
-- [lasect](https://github.com/heywinit/lasect) - postgres instance management platform for my selfhosted instances 
+- **WIP** [lasect](https://github.com/heywinit/lasect) - postgres instance management platform for my selfhosted instances 
 - [octomod](https://github.com/heywinit/octomod) - a replacement for the github ui
 - [zukov](https://github.com/heywinit/zukov) - distributed compute in bun inspired by erlang vm
 - [convextrade](https://github.com/heywinit/tweakcn-switcher) - a trading terminal powered by convex & its realtime sync
