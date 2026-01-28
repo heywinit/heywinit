@@ -10,12 +10,14 @@ i love
 - bikes
 
 ## my projects
+- [lasect](https://github.com/heywinit/lasect) - postgres instance management platform for my selfhosted instances 
 - [octomod](https://github.com/heywinit/octomod) - a replacement for the github ui
 - [zukov](https://github.com/heywinit/zukov) - distributed compute in bun inspired by erlang vm
 - [convextrade](https://github.com/heywinit/tweakcn-switcher) - a trading terminal powered by convex & its realtime sync
 - [better-auth-go](https://github.com/ganthiyalabs/better-auth-go) - a drop-in replacement for better auth typescript server
 - [jecta](https://github.com/heywinit/jecta) - a vsx extension for managing agent rules, skills, mcp servers and more.
 - [delhidarwaza](https://github.com/heywinit/delhidarwaza) - a trading exchange built with elixir
+- [sampha](https://github.com/heywinit/sampha) - todo app on steroids powered by convex with teams, projects, and more
 - [grechen](https://github.com/heywinit/grechen) - a personal commitment management assistant i use on a daily basis
 - [pgrunst](https://github.com/heywinit/pgrunst) - a lite implementation of postgrest in rust aiming for high performance
 - [tweakcn-switcher](https://github.com/heywinit/tweakcn-switcher) - a shadcn component enabling on the go color theme switches
