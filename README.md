@@ -15,7 +15,7 @@ i love
 - [zukov](https://github.com/heywinit/zukov) - distributed compute in bun inspired by erlang vm
 - [convextrade](https://github.com/heywinit/tweakcn-switcher) - a trading terminal powered by convex & its realtime sync
 - [better-auth-go](https://github.com/ganthiyalabs/better-auth-go) - a drop-in replacement for better auth typescript server
-- [jecta](https://github.com/heywinit/jecta) - a vsx extension for managing agent rules, skills, mcp servers and more.
+- [tansen](https://github.com/heywinit/tansen) - spotify library management & a better spotify dj.
 - [delhidarwaza](https://github.com/heywinit/delhidarwaza) - a trading exchange built with elixir
 - [sampha](https://github.com/heywinit/sampha) - todo app on steroids powered by convex with teams, projects, and more
 - [grechen](https://github.com/heywinit/grechen) - a personal commitment management assistant i use on a daily basis
