@@ -13,7 +13,7 @@ i love
 - **WIP** [lasect](https://github.com/heywinit/lasect) - postgres instance management platform for my selfhosted instances 
 - [octomod](https://github.com/heywinit/octomod) - a replacement for the github ui
 - [zukov](https://github.com/heywinit/zukov) - distributed compute in bun inspired by erlang vm
-- [convextrade](https://github.com/heywinit/tweakcn-switcher) - a trading terminal powered by convex & its realtime sync
+- [convextrade](https://github.com/heywinit/convextrade) - a trading terminal powered by convex & its realtime sync
 - [better-auth-go](https://github.com/ganthiyalabs/better-auth-go) - a drop-in replacement for better auth typescript server
 - [tansen](https://github.com/heywinit/tansen) - spotify library management & a better spotify dj.
 - [delhidarwaza](https://github.com/heywinit/delhidarwaza) - a trading exchange built with elixir
