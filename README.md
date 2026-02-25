@@ -11,7 +11,7 @@ i love
 
 ## my projects
 - **WIP** [lasect](https://github.com/heywinit/lasect) - postgres instance management platform for my selfhosted instances 
-- [octomod](https://github.com/heywinit/octomod) - a replacement for the github ui
+- [chat-utils](https://github.com/heywinit/chat-utils) - extensions for the vercel chat sdk
 - [zukov](https://github.com/heywinit/zukov) - distributed compute in bun inspired by erlang vm
 - [convextrade](https://github.com/heywinit/convextrade) - a trading terminal powered by convex & its realtime sync
 - [better-auth-go](https://github.com/ganthiyalabs/better-auth-go) - a drop-in replacement for better auth typescript server
