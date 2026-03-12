@@ -10,17 +10,18 @@ i love
 - bikes
 
 ## my projects
-- **WIP** [lasect](https://github.com/heywinit/lasect) - postgres instance management platform for my selfhosted instances 
-- [chat-utils](https://github.com/heywinit/chat-utils) - extensions for the vercel chat sdk
+- **WIP** [lasect](https://github.com/lasect) - postgres instance management platform for my selfhosted instances 
 - [zukov](https://github.com/heywinit/zukov) - distributed compute in bun inspired by erlang vm
+- [pg_turret](https://github.com/heywinit/pg_turret) - postgresql extension that captures database logs and streams them to external destinations in real-time
 - [convextrade](https://github.com/heywinit/convextrade) - a trading terminal powered by convex & its realtime sync
+- [chat-utils](https://github.com/heywinit/chat-utils) - extensions for the vercel chat sdk
 - [better-auth-go](https://github.com/ganthiyalabs/better-auth-go) - a drop-in replacement for better auth typescript server
-- [tansen](https://github.com/heywinit/tansen) - spotify library management & a better spotify dj.
 - [delhidarwaza](https://github.com/heywinit/delhidarwaza) - a trading exchange built with elixir
-- [sampha](https://github.com/heywinit/sampha) - todo app on steroids powered by convex with teams, projects, and more
+- [sampha](https://github.com/ganthiyalabs/sampha) - todo app on steroids powered by convex with teams, projects, and more
 - [grechen](https://github.com/heywinit/grechen) - a personal commitment management assistant i use on a daily basis
 - [pgrunst](https://github.com/heywinit/pgrunst) - a lite implementation of postgrest in rust aiming for high performance
 - [tweakcn-switcher](https://github.com/heywinit/tweakcn-switcher) - a shadcn component enabling on the go color theme switches
+- [tansen](https://github.com/heywinit/tansen) - spotify library management & a better spotify dj.
 - [go-siwx](https://github.com/heywinit/go-siwx) - a go utility for simplifying web3 wallet login
 
 ### teeny tiny tinkers
