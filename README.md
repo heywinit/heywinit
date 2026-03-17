@@ -12,7 +12,7 @@ i love
 ## my projects
 - **WIP** [lasect](https://github.com/lasect) - postgres instance management platform for my selfhosted instances 
 - [zukov](https://github.com/heywinit/zukov) - distributed compute in bun inspired by erlang vm
-- [pg_turret](https://github.com/heywinit/pg_turret) - postgresql extension that captures database logs and streams them to external destinations in real-time
+- [pg_turret](https://github.com/lasect/pg_turret) - postgresql extension that captures database logs and streams them to external destinations in real-time
 - [convextrade](https://github.com/heywinit/convextrade) - a trading terminal powered by convex & its realtime sync
 - [chat-utils](https://github.com/heywinit/chat-utils) - extensions for the vercel chat sdk
 - [better-auth-go](https://github.com/ganthiyalabs/better-auth-go) - a drop-in replacement for better auth typescript server
